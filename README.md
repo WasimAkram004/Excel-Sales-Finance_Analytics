@@ -1,32 +1,31 @@
-# Excel-Sales & Finance Analytics                                                                                                                                                                                                                                                                                                                                        ## Sales Report :
+# MS Excel: Sales & Finance Analytics                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 
+## Sales Report :
+- **Project Objective:** 
 
-- **Project objective:** 
+    **1.** Create a [Customer Performance Report]((https://github.com/WasimAkram004/Excel-Sales-Finance_Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
-    **1.** Create a _[customer performance report]((https://github.com/WasimAkram004/Excel-Sales-Finance_Analytics/blob/main/Customer%20Performance%20Report.pdf)
+    **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/WasimAkram004/Excel-Sales-Finance_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/WasimAkram004/Excel-Sales-Finance_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+- **Purpose of Sales Analytics:** Empowering businesses to monitor and assess their sales activities and overall performance.
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Importance of Analyzing Sales Data:** It helps identify sales trends and track crucial Key Performance Indicators (KPIs).
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
-
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **Role of Reports:** Reports aid in determining effective customer discounts, streamlining negotiations with consumers, and pinpointing potential business expansion opportunities in promising markets.
 
 
 ## Finance Report :
 
-- **Project objective:** 
+- **Project Objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/WasimAkram004/Excel-Sales-Finance_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/WasimAkram004/Excel-Sales-Finance_Analytics/blob/main/P%20%26%20L%20Statement%20By%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) Reports by _[Fiscal Year](https://github.com/WasimAkram004/Excel-Sales-Finance_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/WasimAkram004/Excel-Sales-Finance_Analytics/blob/main/P%20%26%20L%20Statement%20By%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/WasimAkram004/Excel-Sales-Finance_Analytics/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) Reports by _[Markets](https://github.com/WasimAkram004/Excel-Sales-Finance_Analytics/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf)_
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of Sales Analytics:** This involves assessing financial performance, supporting decision-making, and enhancing communication with stakeholders.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Importance of Analyzing Finance Data:** It plays a crucial role in benchmarking against industry peers and past performance, serving as the foundation for budgeting and forecasting.
+- **Role of Reports:** These reports help align financial planning with strategic objectives and instill confidence in the organization's financial outlook.
 
 
 ## Technical & Soft Skills:
